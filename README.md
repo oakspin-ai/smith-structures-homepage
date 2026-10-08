@@ -9,13 +9,17 @@ A redesigned homepage concept for **Smith Structures Inc.**, a custom home build
 | Current site (smithstructures.com) | This concept |
 |---|---|
 | A very short one-page Wix site with a few lines of philosophy copy | A complete homepage story: what Smith Structures builds, where, and who leads it |
-| Four photos with no captions or project names | An editorial gallery of their own homes, each captioned with the residence name, plus design credit where it is public |
-| Brad's background barely mentioned | Owner-led positioning: ten years as a project manager before founding the firm, and clients working with Brad directly |
+| Four photos with no captions or project names | Named residence case studies (Lost Winds, Calle Ariana, Reed, Garza) with place, a line of scope and design credit where it is public |
+| Brad's background barely mentioned | Positioned as the architect's builder, in the firm's own words ("We bring the artistry of custom designs to life"), with Brad's ten years as a project manager up front |
 | No client proof on the site | Both Houzz reviews (5.0) quoted word for word, with the full text available |
 | Basic name/email/message form | A project inquiry that asks for project type, where the plans stand, location and timing, then opens an email to Brad with everything filled in |
 | Phone number only in the footer | Tap-to-call in the header, the inquiry section and a fixed call bar on phones |
 
-The design takes its cue from the homes themselves: flat roof planes with deep cedar soffits over walls of glass. The hero's "eave" (a charcoal fascia over a slatted cedar soffit) is the one bold element. The wordmark keeps the wide-tracked lettering of the current logo.
+## Design benchmarks
+
+The look is calibrated against leading luxury builders in the segment, not copied from them: Patterson Custom Homes and Graystone Custom Builders (Newport Beach), Dowbuilt (architect-partner builder, West Coast) and HPC Builders (Montecito). Shared traits carried over: few large photographs with plenty of air, two colours plus one accent, large light display type, projects named like case studies with design credits, and one understated call to action.
+
+The one bold element comes from the homes themselves: flat roof planes with deep cedar soffits over walls of glass. In the hero, a charcoal fascia and slatted cedar soffit (the "eave") overhangs a wide framed photograph. The wordmark keeps the wide-tracked lettering of the current logo.
 
 All photos come from smithstructures.com. Copy uses only facts from their site, their Houzz profile and public permit records.
 
